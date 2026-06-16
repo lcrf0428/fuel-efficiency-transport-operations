@@ -114,7 +114,7 @@ Evaluates operational performance against expected efficiency targets.
 
 Identifies the highest-performing vehicles in the fleet.
 
-![Top 10 Vehicles](top_10_vehicle_efficiency.png)
+![Top 10 Vehicles](top_10_efficient_vehicles.png)
 
 ---
 
