@@ -106,7 +106,7 @@ Compares fuel usage against operational activity levels.
 
 Evaluates operational performance against expected efficiency targets.
 
-![Expected vs Actual Fuel Efficiency](expected_vs_actual_fuel_efficiency.png)
+![Expected vs Actual Fuel Efficiency](expected_vs_actual_efficiency.png)
 
 ---
 
@@ -114,7 +114,7 @@ Evaluates operational performance against expected efficiency targets.
 
 Identifies the highest-performing vehicles in the fleet.
 
-![Top 10 Vehicles](top10_vehicle_efficiency.png)
+![Top 10 Vehicles](top_10_vehicle_efficiency.png)
 
 ---
 
