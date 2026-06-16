@@ -90,7 +90,7 @@ Difference between expected and actual performance.
 
 Analyzes fuel consumption trends throughout the year.
 
-![Monthly Fuel Consumption](images/monthly_fuel_consumption.png)
+![Monthly Fuel Consumption](monthly_fuel_consumption.png)
 
 ---
 
@@ -98,7 +98,7 @@ Analyzes fuel consumption trends throughout the year.
 
 Compares fuel usage against operational activity levels.
 
-![Fuel Consumption vs Distance Traveled](images/fuel_consumption_vs_distance.png)
+![Fuel Consumption vs Distance Traveled](fuel_consumption_vs_distance.png)
 
 ---
 
@@ -106,7 +106,7 @@ Compares fuel usage against operational activity levels.
 
 Evaluates operational performance against expected efficiency targets.
 
-![Expected vs Actual Fuel Efficiency](images/expected_vs_actual_fuel_efficiency.png)
+![Expected vs Actual Fuel Efficiency](expected_vs_actual_fuel_efficiency.png)
 
 ---
 
@@ -114,7 +114,7 @@ Evaluates operational performance against expected efficiency targets.
 
 Identifies the highest-performing vehicles in the fleet.
 
-![Top 10 Vehicles](images/top10_vehicle_efficiency.png)
+![Top 10 Vehicles](top10_vehicle_efficiency.png)
 
 ---
 
