@@ -152,6 +152,22 @@ Potential extensions of this project include:
 
 ---
 
+## Notebook
+
+[Open Analysis Notebook](fuel_efficiency_analysis.ipynb)
+
+
+---
+## Tools
+
+-Python
+-Pandas
+-NumPy
+-Matplotlib
+-Jupyter Notebook
+
+---
+
 ## Author
 
 **Carlos Rodríguez**
