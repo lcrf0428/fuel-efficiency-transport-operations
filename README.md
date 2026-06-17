@@ -160,4 +160,5 @@ Operations Manager | Data Analytics Student
 
 GitHub: https://github.com/lcrf0428
 
-LinkedIn: https://www.linkedin.com/in/luis-carlos-rodriguez-data
+LinkedIn: www.linkedin.com/in/carlos-rodríguez-759638414
+
